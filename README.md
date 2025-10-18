@@ -1,3 +1,3 @@
 ## Diagrama de clases
 
-![Diagrama de clases](Docs/diagrama-clases.png)
+![Diagrama de clases](api_patient/Docs/diagrama-clases.png)
